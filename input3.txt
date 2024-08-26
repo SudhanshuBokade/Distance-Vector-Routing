@@ -1,0 +1,11 @@
+6
+A B C D E F
+A B 6
+A C 3
+B C 3
+D E 1
+D F 5
+E F 4
+B D 7
+C E 9
+EOF
